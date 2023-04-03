@@ -131,3 +131,5 @@ dmypy.json
 # data
 *.rar
 Onehunga_POI0322
+cache
+tile_cache
