@@ -133,3 +133,4 @@ dmypy.json
 Onehunga_POI0322
 cache
 tile_cache
+*.gpkg
